@@ -7,7 +7,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 
 
-**Crewmate Roles**
+**Роли членов экипажа**
 - [Мэр `(Mayor)`](#мэр-`(Mayor)`)
 - [Любовники `(Lowers)`](#Любовники-`(Lowers)`)
 - [Шериф `(Sheriff)`](#Шериф-`(Sheriff)`)
@@ -22,21 +22,21 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 - [Снитч `(Snitch)`](#Снитч-`(Snitch)`)
 - [Альтруист `(Altruist)`](#Альтруист-`(Altruist))
 
-**Neutral Roles**
+**Нейтральные роли**
 - [Шут `(Jester)`](#Шут-`(Jester)`)
 - [Оборотень `(Shifter)`](#Оборотень-`(Shifter)`)
 - [Глюк `(The Glitch)`](#Глюк-`(The-Glitch)`)
 - [Палач `(Executioner)`](#Палач-`(Executioner)`)
 - [Поджигатель `(Arsonist)`](#Поджигатель-`(Arsonist)`)
 
-**Impostor Roles**
+**Роли предателей**
 - [Уборщик `(Janitor)`](#Уборщик-`(Janitor)`)
 - [Морфлинг `(Morphling)`](#Морфлинг-`(Morphling)`)
 - [Маскировщик `(Camouflager)`](#Маскировщик-`(Camouflager)`)
 - [Шахтер `(Miner)`](#Шахтер-`(Miner)`)
 - [Свупер `(Swooper)`](#Свупер-`(Swooper)`)
 
-**Modifiers**
+**Модификаторы**
 - [Факел `(Torch)`](#Факел-`(Torch)`)
 - [Больной `(Diseased)`](#Больной-`(Diseased)`)
 - [Флэш `(Flash)`](#Флэш-`(Flash)`)
