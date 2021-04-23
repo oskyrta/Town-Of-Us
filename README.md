@@ -8,42 +8,42 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 
 **Crewmate Roles**
-- [Mayor](#mayor)
-- [Lovers](#lovers)
-- [Sheriff](#sheriff)
-- [Engineer](#engineer)
-- [Swapper](#swapper)
-- [Investigator](#investigator)
-- [Time Lord](#time-lord)
-- [Medic](#medic)
-- [Seer](#seer)
-- [Child](#child)
-- [Spy](#spy)
-- [Snitch](#snitch)
-- [Altruist](#altruist)
+- [Мэр `(Mayor)`](#мэр-`(Mayor)`)
+- [Любовники `(Lowers)`](#Любовники-`(Lowers)`)
+- [Шериф `(Sheriff)`](#Шериф-`(Sheriff)`)
+- [Инженер `(Engineer)`](#Инженер-`(Engineer)`)
+- [Своппер `(Swapper)`](#Своппер-`(Swapper)`)
+- [Следователь `(Investigator)`](#Следователь-`(Investigator)`)
+- [Повелитель времени `(Time Lord)`](#Повелитель-времени-`(Time-Lord)`)
+- [Медик `(Medic)`](#Медик-`(Medic)`])
+- [Провидец `(Seer)`](#Провидец-`(Seer)`)
+- [Ребенок `(Child)`](#Ребенок-`(Child)`)
+- [Шпион `(Spy)`](#[Шпион-`(Spy)`)
+- [Снитч `(Snitch)`](#Снитч-`(Snitch)`)
+- [Альтруист `(Altruist)`](#Альтруист-`(Altruist))
 
 **Neutral Roles**
-- [Jester](#jester)
-- [Shifter](#shifter)
-- [The Glitch](#the-glitch)
-- [Executioner](#executioner)
-- [Arsonist](#arsonist)
+- [Шут `(Jester)`](#Шут-`(Jester)`)
+- [Оборотень `(Shifter)`](#Оборотень-`(Shifter)`)
+- [Глюк `(The Glitch)`](#Глюк-`(The-Glitch)`)
+- [Палач `(Executioner)`](#Палач-`(Executioner)`)
+- [Поджигатель `(Arsonist)`](#Поджигатель-`(Arsonist)`)
 
 **Impostor Roles**
-- [Janitor](#janitor)
-- [Morphling](#morphling)
-- [Camouflager](#camouflager)
-- [Miner](#miner)
-- [Swooper](#swooper)
+- [Уборщик `(Janitor)`](#Уборщик-`(Janitor)`)
+- [Морфлинг `(Morphling)`](#Морфлинг-`(Morphling)`)
+- [Маскировщик `(Camouflager)`](#Маскировщик-`(Camouflager)`)
+- [Шахтер `(Miner)`](#Шахтер-`(Miner)`)
+- [Свупер `(Swooper)`](#Свупер-`(Swooper)`)
 
 **Modifiers**
-- [Torch](#torch)
-- [Diseased](#diseased)
-- [Flash](#flash)
-- [Tiebreaker](#tiebreaker)
-- [Drunk](#drunk)
-- [Giant](#giant)
-- [Button Barry](#button-barry)
+- [Факел `(Torch)`](#Факел-`(Torch)`)
+- [Больной `(Diseased)`](#Больной-`(Diseased)`)
+- [Флэш `(Flash)`](#Флэш-`(Flash)`)
+- [Тайбрейкер `(Tiebreaker)`](#Тайбрейкер-`(Tiebreaker))
+- [Пьяный `(Drunk)`](#Пьяный-`(Drunk))
+- [Гигант `(Giant)`](#Гигант-`(Giant)`)
+- [Барри Кнопка `(Button Barry)`](#Барри-Кнопка-`(Button-Barry)`)
 
 
 
@@ -157,486 +157,487 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 
 -----------------------
-# Installation
-## Requirements 
+# Установка
+## Требования
 - Among Us
 - Steam
 
-## Installation Guide (Steam)
-**1. Create a new folder on `Desktop`, called `Town of Us`.**\
-This can be created anywhere and be named anything, as long as this folder is easy to locate.\
+## Руководство по установке (Steam)
+**1. Создайте новую папку с названием `Town of Us` на `Рабочем столе`.**\
+Ее можно создать где угодно и называть как угодно, главное - чтобы эту папку было легко найти.\
 \
-**2. Open Steam, go to `Library` and locate Among Us. Right click on it, select `Properties...`. Then, under `Local Files`, click on `Browse...`.**\
-This opens the folder containing the Among Us application.\
+**2. Откройте Steam, перейдите в `Библиотеку` и найдите Among Us. Щелкните правой кнопкой мыши по ней, выберите `Свойства...` . Затем в закладке `Локальные файлы` , нажмите `Обзор...` .**\
+Это открывает папку, содержащую приложение «Among Us».\
 \
-**3. Delete everything in the currently opened folder.**\
-Don't worry, this will not delete the game. This simply verifies the Among Us folder being entirely clean.\
+**3. Удалите все в этой папке.**\
+Не волнуйтесь, это не приведет к удалению игры. Это нужно чтобы удостовериться, что папка с «Among Us» полностью чиста.\
 \
-**4. On Steam, locate Among Us once again. Right click on it, select `Properties...`. Now, under `Local Files`, click on `Verify integrity of game files...`.**\
-This restores all of the game files as a fresh installation.\
+**4. В Steam снова найдите «Among Us». Щелкните правой кнопкой мыши по ней, выберите `Свойства...` . Теперь в закладке `Локальные файлы` нажмите `Проверить целостность игровых файлов...`.**\
+Это восстановит все файлы игры.\
 \
-**5. Copy all of the files from the `Among Us` folder to the newly created folder.**\
+**5. Скопируйте все файлы из папки `Among Us` в папку `Town of Us`.**\
 \
-**6. [Download](#releases) the Town of Us version corresponding to the installed Among Us version.**\
+**6. [Скачайте](#releases) версию Town of Us, соответствующую установленной версии Among Us.**\
 \
-**7. Locate the downloaded `.zip` file, and move it to the `Town of Us` folder.**\
-Usually, this can be found in the `Downloads` folder.\
+**7. Найдите загруженный `.zip` файл и переместите его в папку `Town of Us`.**\
+Обычно его можно найти в папке `Загрузки`.\
 \
-**8. Right click on the `.zip` file, and click on `7-Zip`. Then choose `Extract Here`.**\
-Something different might appear depending on the file manager being used. Make sure the folder gets extracted in the `Town of Us` folder, in the same location as the Among Us application. It should look similar to the picture below.\
+**8. Щелкните правой кнопкой мыши на `.zip` файл и нажмите `7-zip`. Затем выберите `Распаковать здесь` .**\
+В зависимости от используемого файлового менеджера может отображаться что-то другое. Убедитесь, что архив извлечён в папку `Town of Us` в том же месте, что и приложение «Among Us». Он должен выглядеть примерно так, как на картинке ниже.\
 \
-**9. Launch the Among Us application that's inside, and start playing Town of Us!**\
-A first launch may take up to 5 minutes, so be patient if it doesn't launch immediately.<br/>
+**9. Запустите приложение «Among Us», которое находится внутри, и начните играть в Town of Us!**\
+Первый запуск может занять до 5 минут, поэтому проявите терпение, если он не запустится сразу.<br/>
 <br/>
-![Install](https://i.imgur.com/pvBAyZN.png)
+![ Установить](https://i.imgur.com/pvBAyZN.png)
 <br/>
-## Issues
-If you have issues installing Town of Us, you can join our [Discord](https://discord.gg/bYSaT74KzT) to receive help.
+## Вопросы
+Если у вас возникли проблемы с установкой Town of Us, вы можете присоединиться к нашему [Discord серверу](https://discord.gg/bYSaT74KzT) чтобы получить помощь.
 
 -----------------------
-# Roles
-# Crewmate Roles
-## Mayor
-### **Team: Crewmates**
-The Mayor is a Crewmate that can vote multiple times.\
-The Mayor has a Vote Bank, which is the number of times they can vote.\
-They have the option to abstain their vote during a meeting, adding that vote to the Vote Bank.\
-As long as not everyone has voted, the Mayor can use as many votes from their Vote Bank as they please.
+# Роли
+# Роли членов экипажа `(Crewmates)`
+## Мэр `(Mayor)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Мэр - это член экипажа, который может голосовать несколько раз.\
+У мэра есть банк голосов `(Vote Bank)`, который указывает сколько раз он может проголосовать.\
+У него есть возможность воздержаться `(abstain)` при голосовании, добавив этот голос в банк.\
+Пока все не проголосовали, мэр может использовать столько голосов из своего банка, сколько пожелает.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Mayor | The percentage probability of the Mayor appearing | Percentage | 0% |
-| Initial Mayor Vote Bank | The number of votes in the Vote Bank at the start of a game | Number | 1 |
-| Mayor Votes Show Anonymous | Whether the Mayor's extra votes will show up anonymously | Toggle | False |
+| Mayor | Процентная вероятность появления  мэра | Процент | 0% |
+| Initial Mayor Vote Bank | Количество голосов в Банке голосов в начале игры. | Число | 1 |
+| Mayor Votes Show Anonymous | Будут ли дополнительные голоса мэра отображаться анонимно | Переключатель | False |
 
 -----------------------
-## Lovers
-### **Team: Crewmates or Impostors**
-The Lovers are two players who are linked together.\
-These two players get picked randomly between Crewmates and Impostors.\
-They gain the primary objective to stay alive together.\
-If they are both among the last 3 players, they win.\
-In order to so, they gain access to a private chat, only visible by them in between meetings.\
-However, they can also win with their respective team, hence why the Lovers do not know the role of the other lover.
+## Любовники `(Lowers)`
+### **Команда: Члены экипажа `(Crewmates)` или Предатели `(Impostors)`**
+Любовники - это два игрока, которые связаны друг с другом.\
+Эти два игрока случайным образом выбираются между членами экипажа и предателями.\
+Их главная цель - остаться в живых вместе.\
+Если они оба входят в число последних 3 игроков, они выигрывают.\
+Для этого они получают доступ к приватному чату, который они видят только между собраниями.\
+Но они также могут побеждать со своей командой, поэтому Любовники не знают роли другого любовника.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Lovers | The percentage probability of the Lovers appearing | Percentage | 0% |
-| Both Lovers Die | Whether the other Lover automatically dies if the other does | Toggle | True |
+| Lovers | Процентная вероятность появления  влюбленных | Процент | 0% |
+| Both Lovers Die | Умрет ли Любовник при смерти другого | Переключатель | True |
 
 -----------------------
-## Sheriff
-### **Team: Crewmates**
-The Sheriff is a Crewmate that has the ability to eliminate the Impostors using their kill button.\
-However, if they kill a Crewmate or a Neutral player they can't kill, they instead die themselves.
+## Шериф `(Sheriff)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Шериф - это член экипажа, который может убивать Предателей, используя кнопку убийства, как у них.\
+Однако, если он убивает члена экипажа или нейтрального игрока, которого не может убить, он умирает сам.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Sheriff | The percentage probability of the Sheriff appearing | Percentage | 0% |
-| Show Sheriff | Whether everybody can see who the Sheriff is | Toggle | False |
-| Sheriff Miskill Kills Crewmate | Whether the other player is killed if the Sheriff Misfires | Toggle | False |
-| Sheriff Kills Jester | Whether the Sheriff is able to kill the Jester | Toggle | False |
-| Sheriff Kills The Glitch | Whether the Sheriff is able to kill The Glitch | Toggle | False |
-| Sheriff Kills Arsonist | Whether the Sheriff is able to kill the Arsonist | Toggle | False |
-| Sheriff Kill Cooldown | The cooldown on the Sheriff's kill button | Time | 25s |
-| Sheriff can report who they've killed | Whether the Sheriff is able to report their own kills | Toggle | True |
+| Sheriff | Процентная вероятность появления  Шерифа | Процент | 0% |
+| Show Sheriff | Все ли видят, кто шериф | Переключатель | False |
+| Sheriff Miskill Kills Crewmate | Будет ли убит другой игрок, если шериф промахнулся | Переключатель | False |
+| Sheriff Kills Jester | Сможет ли шериф убить Шута `(Jester)` | Переключатель | False |
+| Sheriff Kills The Glitch | Сможет ли шериф убить Глюка `(The Glitch)` | Переключатель | False |
+| Sheriff Kills Arsonist | Сможет ли шериф убить Поджигателя `(Arsonist)`| Переключатель | False |
+| Sheriff Kill Cooldown | Время перезарядки убийства | Время | 25 с |
+| Sheriff can report who they've killed | Может ли Шериф сообщить о своих убийствах | Переключатель | True |
 
 -----------------------
-## Engineer
-### **Team: Crewmates**
-The Engineer is a Crewmate that can fix sabotages from anywhere on the map.\
-They can use vents to get across the map easily.
+## Инженер `(Engineer)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Инженер - это член экипажа, который может устранять саботаж из любой точки карты.\
+Он может использовать вентиляции, чтобы перемещаться по карте.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Engineer | The percentage probability of the Engineer appearing | Percentage | 0% |
-| Engineer Fix Per | Whether the Engineer can fix 1 sabotage per round or per game | Round / Game | Round |
+| Engineer | Процентная вероятность появления инженера | Процент | 0% |
+| Engineer Fix Per | Может ли инженер починить 1 саботаж за раунд или за игру | Round / Game | Round |
 
 -----------------------
-## Swapper
-### **Team: Crewmates**
-The Swapper is a Crewmate that can swap the votes on 2 players during a meeting.\
-All the votes for the first player will instead be counted towards the second player and vice versa.
+## Своппер `(Swapper)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Своппер - это член экипажа, который может обменивать голоса между 2-мя игроками во время собрания.\
+Все голоса за первого игрока будут засчитаны в пользу второго и наоборот.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Swapper | The percentage probability of the Swapper appearing | Percentage | 0% |
+| Swapper | Процентная вероятность появления Swapper | Процент | 0% |
 
 -----------------------
-## Investigator
-### **Team: Crewmates**
-The Investigator is a Crewmate that can see the footprints of players.\
-Every footprint disappears after a set amount of time.
+## Следователь `(Investigator)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Следователь - это член экипажа, который может видеть следы игроков.\
+Следы исчезаеют через определенное время.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Investigator | The percentage probability of the Investigator appearing | Percentage | 0% |
-| Footprint Size | The size of the footprint on a scale of 1 to 10 | Number | 4 |
-| Footprint Interval | The time interval between two footprints | Time | 1s |
-| Footprint Duration | The amount of time that the footprint stays on the ground for | Time | 10s |
-| Anonymous Footprint | When enabled, all footprints are grey instead of the player's colors | Toggle | False
-| Footprint Vent Visible | Whether footprints near vents are shown | Toggle | False
+| Investigator | Процентная вероятность появления следователя | Процент | 0% |
+| Footprint Size| Размер следа по шкале от 1 до 10 | Число | 4 |
+| Footprint Interval | Временной интервал между двумя следами | Время | 1 с |
+| Footprint Duration | Время, в течение которого след остается на земле. | Время | 10 с |
+| Anonymous Footprint | При включении следы показаны серыми, вместо цвета игрока. | Переключатель | False |
+| Footprint Vent Visible | Отображаются ли следы возле вентиляционных отверстий | Переключатель | False |
 
 -----------------------
-## Time Lord
-### **Team: Crewmates**
-The Time Lord is a Crewmate that can rewind time and reverse the positions of all players.\
-If enabled, any players killed during this time will be revived.\
-Nothing but movements and kills are affected.\
-If enabled, the Time Lord can't use Vitals to make things more balanced.
+## Повелитель времени `(Time Lord)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Повелитель времени - это член экипажа, который может перематывать время и позиции всех игроков назад.\
+Если параметр включен, все игроки, убитые за это время, будут воскрешены.\
+Ничего, кроме движений и убийств, не затрагивается.\
+Если параметр включен, Повелитель времени не сможет использовать Терминал жизненных показателей `(Vitals)`, для баланса.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Time Lord | The percentage probability of the Time Lord appearing | Percentage | 0% |
-| Revive During Rewind | Whether the Time Lord revives dead players when rewinding | Toggle | False |
-| Rewind Duration | How far the rewind goes back in time | Time | 3s |
-| Rewind Cooldown | The cooldown of the Time Lord's Rewind button | Time | 25s |
-| Time Lord can use Vitals | Whether the Time Lord has the ability to use Vitals | Toggle | False |
+| Time Lord | Процентная вероятность появления Повелителя времени | Процент | 0% |
+| Revive During Rewind | Оживляет ли Повелитель времени мертвых игроков при перемотке | Переключатель | False |
+| Rewind Duration | Как далеко уходит перемотка во времени | Время | 3 с |
+| Rewind Cooldown | Время восстановления перемотки времени | Время | 25 с |
+| Time Lord can use Vitals | Может ли Повелитель Времени использовать терминал жизненных показателей `(Vitals)` | Переключатель | False |
 
 -----------------------
-## Medic
-### **Team: Crewmates**
-The Medic is a Crewmate that can give any player a shield that will make them immortal until the Medic dies.\
-A Shielded player cannot be Shifted into, Hacked or Killed by anyone, unless by suicide.\
-If the Medic reports a dead body, they can get a report containing clues to the Killer's identity.\
-A report can contain the name of the killer or the color type (Darker/Lighter)
-### Colors
-- Red - Darker
-- Blue - Darker
-- Green - Darker
-- Pink - Lighter
-- Orange - Lighter
-- Yellow - Lighter
-- Black - Darker
-- White - Lighter
-- Purple - Darker
-- Brown - Darker
-- Cyan - Lighter
-- Lime - Lighter
-- Watermelon - Darker
-- Chocolate - Darker
-- Sky Blue - Lighter
-- Beige - Darker
-- Hot Pink - Lighter
-- Turquoise - Lighter
-- Lilac - Lighter
-- Rainbow - Lighter
-### Game Options
-| Name | Description | Type | Default |
+## Медик `(Medic)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Медик - это член экипажа, который может дать любому игроку щит, который сделает его бессмертным, пока Медик не умрет.\
+С защищенным игроком не можно обменяться ролями `(Shift into)`, его нельзя взломать `(Hack)` или убить (кроме самоубийства).\
+Если медик находит тело, он может получить отчет, содержащий подсказки к разгадке личности Убийцы.\
+Отчет может содержать имя убийцы или тип цвета (Тёмный `(Darker)` / Светлый `(Lighter)`).
+### Цвета
+| Цвет | Тип |
+|----------|:-------------:|
+| Красный | Тёмный |
+| Синий | Тёмный |
+| Зеленый | Тёмный |
+| Черный | Тёмный |
+| Фиолетовый | Тёмный |
+| Коричневый | Тёмный |
+| Арбузный | Тёмный |
+| Шоколадный | Тёмный |
+| Бежевый | Тёмный |
+| Розовый | Светлый |
+| Оранжевый | Светлый |
+| Желтый | Светлый |
+| Белый | Светлый |
+| Голубой | Светлый |
+| Лаймовый | Светлый |
+| Небесно-голубой | Светлый |
+| Ярко-розовый | Светлый |
+| Бирюзовый | Светлый |
+| Сиреневый | Светлый |
+| Радужный | Светлый |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Medic | The percentage probability of the Medic appearing | Percentage | 0% |
-| Show Shielded Player | Who should be able to see who is Shielded | Self / Medic / Self + Medic / Everyone | Self |
-| Show Medic Reports | Whether the Medic should get information when reporting a body | Toggle | True |
-| Time Where Medic Reports Will Have Name | If a body has been dead for shorter than this amount, the Medic's report will contain the killer's name | Time | 0s |
-| Time Where Medic Reports Will Have Color Type | If a body has been dead for shorter than this amount, the Medic's report will have the type of color | Time | 15s |
-| Who gets murder attempt indicator | Who will receive an indicator when someone tries to Shift into, Hack or Kill them | Medic / Shielded / Everyone / Nobody | Medic |
-| Shield breaks on murder attempt | Whether the Shield breaks when someone attempts to Shift into, Hack or Kill them | Toggle | False |
+| Medic | Процентная вероятность появления Медика | Процент | 0% |
+| Show Shielded Player | Кто должен видеть защищенного |  Self / Medic / Self + Medic / Everyone | Self |
+| Show Medic Reports | Должен ли медик получать информацию при нахождении тела | Переключатель | True |
+| Time Where Medic Reports Will Have Name | Если смерть наступила раньше этого значения, в отчете медика будет указано имя убийцы. | Время | 0 с |
+| Time Where Medic Reports Will Have Color Type | Если смерть наступила раньше этого значения, отчет медика будет содержать тип цвета | Время | 15 с |
+| Who gets murder attempt indicator | Кто получит индикатор, когда кто-то попытается обменяться ролью `(Shift)`, взломать `(Hack)` или убить | Medic / Shielded / Everyone / Nobody | Medic |
+| Shield breaks on murder attempt | Сломается ли щит, когда кто-то попытается обменяться ролью `(Shift)`, взломать `(Hack)` или убить | Переключатель | False |
 
 -----------------------
-## Seer
-### **Team: Crewmates**
-The Seer is a Crewmate that can reveal the roles of other players.\
-Based on settings, the Seer can find out whether a role is Good, Evil or Neutral, or they can find out the role itself.\
-A player's name will change color to their team or role.\
-If the Seer investigates someone, the Seer's name will change color to inform that player who the Seer is.
-### Game Options
-| Name | Description | Type | Default |
+## Провидец `(Seer)`
+### **Команда: Члены экипажа `(Crewmates)`**
+Провидец - это член экипажа, который может раскрывать роли других игроков.\
+Основываясь на настройках, Провидец может определить, является ли роль Хорошей, Плохой или Нейтральной, или он может узнать саму роль.\
+Имя игрока изменит цвет в соответствии с его командой или ролью.\
+Если Провидец кого-то раскрывает, имя Провидца изменит цвет, чтобы сообщить этому игроку, кто Провидец.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Seer | The percentage probability of the Seer appearing | Percentage | 0% |
-| Seer Cooldown | The Cooldown of the Seer's Reveal button | Time | 25s |
-| Info that Seer sees | Whether the Seer sees the Role or the Team of a player | Role / Team | Role |
-| Who Sees That They Are Revealed | Which roles see the Seer's identity once the Seer has seen their role | Crewmates / Impostors + Neutral / All / Nobody | Crewmates |
-| Neutrals show up as Impostors | When the Info is set to Team, Neutral roles show up as Red, like Impostors | Toggle | False |
+| Seer | Процентная вероятность появления Провидца | Процент | 0% |
+| Seer Cooldown | Перезарядка раскрытия  | Время | 25 с |
+| Info that Seer sees | Провидец видит роль или команду игрока | Role / Team | Role |
+| Who Sees That They Are Revealed | Какие роли видят личность Провидца после того, как Провидец увидел свою роль | Crewmates / Impostors + Neutral / All / Nobody | Crewmates |
+| Neutrals show up as Impostors | Когда для «Info» установлено значение «Team», нейтральные роли отображаются красным цветом как Предатели. | Переключатель | False |
 
 -----------------------
-## Child
-### **Team: Crewmates**
+## Ребенок `(Child)`
+### **Команда: Члены экипажа `(Crewmates)`**
 
-The Child is a Crewmate that cannot be killed or voted out.\
-If that does happen, everybody loses.
-### Game Options
-| Name | Description | Type | Default |
+Ребенок - это член экипажа, которого нельзя убить или исключить из игры.\
+Если это произойдет, проиграют все.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Child | The percentage probability of the Child appearing | Percentage | 0% |
+| Child | Процентная вероятность появления ребенка | Процент | 0% |
 
 -----------------------
-## Spy
-### **Team: Crewmates**
+## Шпион `(Spy)`
+### **Команда: Члены экипажа `(Crewmates)`**
 
-The Spy is a Crewmate that gains more information when on Admin Table and Vitals.\
-On Admin Table, the Spy can see the colors of every person on the map.\
-On Vitals, the Spy can see how long killed bodies have been dead for.
-### Game Options
-| Name | Description | Type | Default |
+Шпион - это член экипажа, который получает больше информации на административном столе `(Admin Table)` и на терминале жизненных показателей `(Vitals)`.\
+На административном столе шпион может видеть цвета каждого человека на карте.\
+На терминале жизненных показателей шпион может видеть, как долго убитые были мертвы.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Spy | The percentage probability of the Spy appearing | Percentage | 0% |
+| Spy | Процентная вероятность появления шпиона | Процент | 0% |
 
 -----------------------
-## Snitch
-### **Team: Crewmates**
+## Снитч `(Snitch)`
+### **Команда: Члены экипажа `(Crewmates)`**
 
-The Snitch is a Crewmate that can get arrows pointing towards the Impostors, once all their tasks are finished.\
-The names of the Impostors will also show up as red on their screen.\
-Based on game settings, the Snitch may not know who they are until they have one task left.\
-However, when they only have a single task left, the Impostors get an arrow pointing towards the Snitch.
-### Game Options
-| Name | Description | Type | Default |
+Снитч - это член экипажа, который может получить стрелки, указывающие на Предателей, после того, как все его задачи будут выполнены.\
+Имена самозванцев также будут отображаться красным цветом на его экране.\
+В зависимости от настроек игры Снитч может не знать, кто он, пока у него не останется одно задание.\
+Когда у него остаётся только одна задача, Предатели получают стрелку, указывающую на Снитча.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Snitch | The percentage probability of the Snitch appearing | Percentage | 0% |
-| Snitch knows who they are on Game Start | Whether the Snitch knows their role at the start of a game | Toggle | False |
+| Snitch | Процентная вероятность появления снитча | Процент | 0% |
+| Snitch knows who they are on Game Start | Знает ли Снитч свою роль в начале игры | Переключатель | False |
 
 -----------------------
-## Altruist
-### **Team: Crewmates**
+## Альтруист `(Altruist)`
+### **Команда: Члены экипажа `(Crewmates)`**
 
-The Altruist is a Crewmate that is capable of reviving dead players.\
-Upon finding a dead body, the Altruist can hit their revive button, risking sacrificing themselves for the revival of another player.\
-If enabled, the dead body disappears, so only they Altruist's body remains at the scene.\
-After a set period of time, the player will be resurrected, if the revival isn't interrupted.
-### Game Options
-| Name | Description | Type | Default |
+Альтруист - это член экипажа, способный воскрешать мертвых игроков.\
+Обнаружив труп, Альтруист может нажать кнопку возрождения, рискуя пожертвовать собой ради возрождения другого игрока.\
+Если включено, мертвое тело исчезает и остается только тело Альтруиста.\
+По истечении заданного времени игрок воскреснет, если воскрешение не будет прервано.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Altruist | The percentage probability of the Altruist appearing | Percentage | 0% |
-| Altruist Revive Duration | The time it takes for the Altruist to revive a dead body | Time | 10s |
-| Target's body disappears on beginning of revive | Whether the dead body of the player the Altruist is reviving disappears upon revival | Toggle | False |
+| Altruist | Процентная вероятность появления альтруиста | Процент | 0% |
+| Altruist Revive Duration | Время, необходимое альтруисту, чтобы оживить мертвое тело | Время | 10 с |
+| Target's body disappears on beginning of revive | Исчезает ли тело игрока, во время возрожения | Переключатель | False |
 
 -----------------------
-# Neutral Roles
-## Jester
-### **Team: Neutral**
-The Jester is a Neutral role with its own win condition.\
-If they are voted out after a meeting, the game finishes and they win.\
-However, the Jester does not win if the Crewmates, Impostors or another Neutral role wins.
+# Нейтральные роли `(Neutral)`
+## Шут `(Jester)`
+### **Команда: Нейтральная `(Neutral)`**
+Шут - это нейтральная роль со своим условием победы.\
+Если его выгоняют на собрании, игра заканчивается и он побеждает.\
+Шут не побеждает, если побеждают члены экипажа, предатели или другая нейтральная роль.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Jester | The percentage probability of the Jester appearing | Percentage | 0% |
+| Jester | Процентная вероятность появления Шута | Процент | 0% |
 
 -----------------------
-## Shifter
-### **Team: Neutral**
-The Shifter is a Neutral role with no win condition.\
-They have zero tasks and are essentially roleless.\
-However, they can swap roles with other players.\
-Swapping roles with a custom role gives the Shifter their role and tasks and turns the other player into a Crewmate.\
-Swapping roles with a Crewmate swaps tasks.\
-Swapping roles with an Impostor fails and kills the Shifter.
+## Оборотень `(Shifter)`
+### **Команда: Нейтральная `(Neutral)`**
+Оборотень - это нейтральная роль без условия победы.\
+У него нет задач и он, по сути, не имеет роли.\
+Однако он может меняться ролями с другими игроками.\
+Обмен с игроком со спец. ролью дает Оборотню эту роль, задачи и превращает другого игрока в члена экипажа.\
+Обмен ролями с членом экипажа обменивает задачи.\
+Обмен ролями с Предателем невозможен и убивает Оборотня.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Shifter | The percentage probability of the Shifter appearing | Percentage | 0% |
-| Shifter Cooldown | The cooldown on the Shifter's Shift button | Time | 25s |
-| Who gets the Shifter role on Shift | Who will receive the Shifter role upon getting Shifted into | Non-Impostors / Regular Crewmates / Nobody | Non-Impostors |
+| Shifter | Процентная вероятность появления Шифтера | Процент | 0% |
+| Shifter Cooldown | Время перезарядки обмена ролями | Время | 25 с |
+| Who gets the Shifter role on Shift | Кто получит роль Оборотня при обмене | Non-Impostors / Regular Crewmates / Nobody | Non-Impostors |
 
 -----------------------
-## The Glitch
-### **Team: Neutral**
+## Глюк `(The Glitch)`
+### **Команда: Нейтральная `(Neutral)`**
 
-The Glitch is a Neutral role with its own win condition.\
-The Glitch's aim is to kill __everyone__ and be the last person standing.\
-The Glitch can Hack players, resulting in them being unable to report bodies and do tasks.\
-Hacking prevents the hacked player from doing anything but walk around the map.\
-The Glitch can Mimic someone, which results in them looking exactly like the other person.
+Глюк - это нейтральная роль со своим собственным условием победы.\
+Цель Глюка - убить __всех__ и быть последним выжившим.\
+Глюка может взламывать `(Hack)` игроков, в результате чего они не могут сообщать о телах и выполнять задания.\
+Взлом не позволяет взломанному игроку делать что-либо, кроме как ходить по карте.\
+Глюк может имитировать `(Mimic)` другого игрока. Это приводит к тому, что он выглядит точно так же.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| The Glitch | The percentage probability of The Glitch appearing | Percentage | 0% |
-| Mimic Cooldown | The cooldown of The Glitch's Mimic button | Time | 30s |
-| Mimic Duration | How long The Glitch can Mimic a player | Time | 10s |
-| Hack Cooldown | The cooldown of The Glitch's Hack button | Time | 30s |
-| Hack Duration | How long The Glitch can Hack a player | Time | 10s |
-| Glitch Kill Cooldown | The cooldown of the Glitch's Kill button | Time | 30s |
-| Initial Glitch Kill Cooldown | The cooldown of The Glitch's Kill button at the start of a game | Time | 10s |
-| Glitch Hack Distance | How far away The Glitch can Hack someone from | Short / Normal / Long | Short |
+| The Glitch | Процентная вероятность появления Глюка | Процент | 0% |
+| Mimic Cooldown | Перезарядка имитации | Время | 30-е годы |
+| Mimic Duration | Как долго Глюк может имитировать игрока | Время | 10 с |
+| Hack Cooldown  | Перезарядка взлома | Время | 30-е годы |
+| Hack Duration | На сколько Глюк может взламывать игрока | Время | 10 с |
+| Glitch Kill Cooldown | Перезарядка убийства Глюка | Время | 30-е годы |
+| Initial Glitch Kill Cooldown | Время восстановления кнопки убийства Глюка в начале игры. | Время | 10 с |
+| Glitch Hack Distance | Как далеко Глюк может взломать кого-нибудь | Short / Normal / Long | Short |
 
 -----------------------
-## Executioner
-### **Team: Neutral**
+## Палач `(Executioner)`
+### **Команда: Нейтральная `(Neutral)`**
 
-The Executioner is a Neutral role with its own win condition.\
-Their goal is to vote out a player, specified in the beginning of a game.\
-If that player gets voted out, they win the game.
-### Game Options
-| Name | Description | Type | Default |
+Палач - это нейтральная роль со своим собственным условием победы.\
+Его цель - выгнать на голосовании игрока, указанного в начале игры.\
+Если этого игрока исключат на голосовании, он выиграет игру.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Executioner | The percentage probability of the Executioner appearing | Percentage | 0% |
-| Executioner becomes on Target Dead | Which role the Executioner becomes when their target dies | Crewmate / Jester | Crewmate |
+| Executioner | Процентная вероятность появления Палача | Процент | 0% |
+| Executioner becomes on Target Dead | Какую роль получает Палач после смерти цели | Crewmate / Jester | Crewmate |
 
 -----------------------
-## Arsonist
-### **Team: Neutral**
+## Поджигатель `(Arsonist)`
+### **Команда: Нейтральная `(Neutral)`**
 
-The Arsonist is a Neutral role with its own win condition.\
-They have the ability to douse other players with gasoline.\
-Once they have doused every player remaining, they can Ignite everyone at once.\
-Upon Igniting every player, they win the game.
-### Game Options
-| Name | Description | Type | Default |
+Поджигатель - это нейтральная роль со своим собственным условием победы.\
+У него есть возможность облить `(Douse)` других игроков бензином.\
+После того, как он облил всех оставшихся игроков, он может поджечь всех сразу.\
+Поджигая всех, они выигрывает игру.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Arsonist | The percentage probability of the Arsonist appearing | Percentage | 0% |
-| Douse Cooldown | The cooldown of the Arsonist's Douse button | Time | 25s |
-| Game keeps going so long as Arsonist is alive | Whether the game keeps going while the Arsonist remains | Toggle | False |
+| Arsonist | Процентная вероятность появления Поджигателя | Процент | 0% |
+| Douse Cooldown  | Перезарядка обливания | Время | 25 с |
+| Game keeps going so long as Arsonist is alive | Будет ли игра продолжаться, пока остаётся Поджигатель | Переключатель | False |
 
 -----------------------
-# Impostor Roles
-## Janitor
-### **Team: Impostors**
-The Janitor is an Impostor that can clean up bodies.\
-Both their Kill and Clean ability have a shared cooldown, meaning they have to choose which one they want to use.
+# Роли Предателей `(Impostors)`
+## Уборщик `(Janitor)`
+### **Команда: Предатели `(Impostors)`**
+Уборщик - это предатель, который может убирать тела.\
+Его способности «Убить» и «Очистить» `(Clean)` имеют общую перезарядку, то есть он должен выбрать, какую из них он хочет использовать.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Janitor | The percentage probability of the Janitor appearing | Percentage | 0% |
+| Janitor | Процентная вероятность появления уборщика | Процент | 0% |
 
 -----------------------
-## Morphling
-### **Team: Impostors**
+## Морфлинг `(Morphling)`
+### **Команда: Предатели `(Impostors)`**
 
-The Morphling is an Impostor that can Morph into another player.\
-At the beginning of the game and after every meeting, they can choose someone to Sample.\
-They can then Morph into that person at any time for a limited amount of time.\
-To balance the role, they can't vent.
+Морфлинг - это предатель, который может превращаться `(Morph)` в другого игрока.\
+В начале игры и после каждого собрания они могут выбрать кого-нибудь для пробы ДНК `(Sample)`.\
+Затем они могут превратиться в этого человека в любой момент на ограниченное время.\
+Чтобы сбалансировать роль, он не может пользоваться вентиляциями.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Morphling | The percentage probability of the Morphling appearing | Percentage | 0% |
-| Morph Cooldown | The cooldown of the Morphling's Morph button | Time | 25s |
-| Morph Duration | How long the Morph lasts for | Time | 10s |
+| Morphling | Процентная вероятность появления Морфлинга | Процент | 0% |
+| Morph Cooldown | Перезарядка превращения | Время | 25 с |
+| Morph Duration | Как долго длится превращение | Время | 10 с |
 
 -----------------------
-## Camouflager
-### **Team: Impostors**
+## Маскировщик `(Camouflager)`
+### **Команда: Предатели `(Impostors)`**
 
-The Camouflager is an Impostor that can turn everyone into colorless characters.\
-Everyone then goes grey for a certain period of time, along with their names disappearing, making them become unrecognizable.
+Маскировщик - это предатель, способный превратить всех в бесцветных персонажей.\
+Все становятся серыми на определенный период времени, а их имена исчезают, что делает их неузнаваемыми.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Camouflager | The percentage probability of the Camouflager appearing | Percentage | 0% |
-| Camouflage Cooldown | The cooldown of the Camouflager's Camouflage button | Time | 25s |
-| Camouflage Duration | How long the Camouflage lasts for | Time | 10s |
+| Camouflager | Процентная вероятность появления Маскировщика | Процент | 0% |
+| Camouflage Cooldown | Перезарядка маскировки | Время | 25 с |
+| Camouflage Duration | Как долго длится маскировка | Время | 10 с |
 
 -----------------------
-## Miner
-### **Team: Impostors**
+## Шахтер `(Miner)`
+### **Команда: Предатели `(Impostors)`**
 
-The Miner is an Impostor that can create new vents.\
-These vents only connect to each other, forming a new passway.
+Шахтер - это предатель, который может создавать новые вентиляции.\
+Эти вентиляции соединяются только друг с другом, образуя новый проход.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Miner | The percentage probability of the Miner appearing | Percentage | 0% |
-| Mine Cooldown | The cooldown of the Miner's Mine button | Time | 25s |
+| Miner | Процентная вероятность появления Шахтера | Процент | 0% |
+| Mine Cooldown | Перезарядка прокладывания вентиляции | Время | 25 с |
 
 -----------------------
-## Swooper
-### **Team: Impostors**
+## Свупер `(Swooper)`
+### **Команда: Предатели `(Impostors)`**
 
-The Swooper is an Impostor that can temporarily turn invisible.\
-To balance the role, they can't vent.
+Свупер - это предатель, который может временно становиться невидимым.\
+Чтобы сбалансировать роль, он не может пользоваться вентиляциями.
 
-### Game Options
-| Name | Description | Type | Default |
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Swooper | The percentage probability of the Swooper appearing | Percentage | 0% |
-| Swooper Cooldown | The cooldown of the Swooper's Swoop button | Time | 25s |
-| Swooper Duration | How long the Swooping lasts for | Time | 10s |
+| Swooper | Процентная вероятность появления Свупера | Процент | 0% |
+| Swooper Cooldown | Перезарядка невидимости | Время | 25 с |
+| Swooper Duration | Как долго длится невидимость | Время | 10 с |
 
 -----------------------
 
-# Modifiers
-Modifiers are added on top of players' roles.
-## Torch
-### **Applied to: Crewmates**
-The Torch's vision doesn't get reduced when the lights are sabotaged.
-### Game Options
-| Name | Description | Type | Default |
+# Модификаторы `(Modifiers)`
+Модификаторы добавляются поверх ролей игроков.
+## Факел `(Torch)`
+### **Применяется к: Членам команды `(Crewmates)`**
+Обзор Факела не ухудшается при саботаже света.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Torch | The percentage probability of the Torch appearing | Percentage | 0% |
+| Torch | Процентная вероятность появления Факела | Процент | 0% |
 
 -----------------------
-## Diseased
-### **Applied to: Crewmates**
-Killing the Diseased triples the killer's Kill cooldown.
-### Game Options
-| Name | Description | Type | Default |
+## Больной `(Diseased)`
+### **Применяется к: Членам команды `(Crewmates)`**
+Убийство Больного втрое увеличивает время перезарядки убийцы.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Diseased | The percentage probability of the Diseased appearing | Percentage | 0% |
+| Diseased | Процентная вероятность появления Больного | Процент | 0% |
 
 -----------------------
-## Flash
-### **Applied to: All**
-The Flash travels at twice the speed of a normal player.
-### Game Options
-| Name | Description | Type | Default |
+## Флэш `(Flash)`
+### **Применимо ко всем**
+Флэш движется в два раза быстрее, чем обычный игрок.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Flash | The percentage probability of the Flash appearing | Percentage | 0% |
+| Flash | Процентная вероятность появления Флэша | Процент | 0% |
 
 -----------------------
-## Tiebreaker
-### **Applied to: All**
-If any vote is a draw, the Tiebreaker's vote will go through.\
-If they voted another player, they will get voted out.\
-If the Tiebreaker is the Mayor, it applies to the Mayor's __first__ vote.
-### Game Options
-| Name | Description | Type | Default |
+## Тайбрейкер `(Tiebreaker)`
+### **Применимо ко всем**
+Если какое-либо голосование оканчивается ничьей, то голос Тайбрейкера решает, кто будет исключён.\
+Если он проголосовал за другого игрока, он будет исключён.\
+Если Тайбрейкер является Мэром `(Mayor)`, это применяется к __первому__ голосу мэра.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Tiebreaker | The percentage probability of the Tiebreaker appearing | Percentage | 0% |
+| Tiebreaker | Процентная вероятность появления Тайбрейкера | Процент | 0% |
 
 -----------------------
-## Drunk
-### **Applied to: All**
-The Drunk's controls are inverted.
-### Game Options
-| Name | Description | Type | Default |
+## Пьяный `(Drunk)`
+### **Применимо ко всем**
+Управление пьяного инвертированно.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Drunk | The percentage probability of the Drunk appearing | Percentage | 0% |
+| Drunk | Процентная вероятность появления Пьяного | Процент | 0% |
 
 -----------------------
-## Giant
-### **Applied to: All**
-The Giant is a gigantic Crewmate, that has a decreased walk speed.
-### Game Options
-| Name | Description | Type | Default |
+## Гигант `(Giant)`
+### **Применимо ко всем**
+Гигант - это гигантский игрок, у которого уменьшена скорость ходьбы.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Giant | The percentage probability of the Giant appearing | Percentage | 0% |
+| Giant | Процентная вероятность появления Гиганта | Процент | 0% |
 
 -----------------------
-## Button Barry
-### **Applied to: All**
-Button Barry has the ability to call a meeting from anywhere on the map, even during sabotages.
-They have the same amount of meetings as a regular player.
-### Game Options
-| Name | Description | Type | Default |
+## Барри Кнопка `(Button Barry)`
+### **Применимо ко всем**
+У Барри Кнопки есть возможность созвать собрание из любой точки карты, даже во время саботажа. У него такое же количество собраний, как и у обычного игрока.
+### Опции игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Button Barry | The percentage probability of Button Barry appearing | Percentage | 0% |
+| Button Barry | Процентная вероятность появления Барри Кнопки | Процент | 0% |
 
 -----------------------
-# Custom Game Options
-| Name | Description | Type | Default |
+# Пользовательские параметры игры
+| Имя | Описание | Тип | По умолчанию |
 |----------|:-------------:|:------:|:------:|
-| Camouflaged Comms | Whether everyone becomes camouflaged when Comms are sabotaged | Toggle | False |
-| Camouflaged Meetings | Whether everyone is camouflaged during meetings while Comms are sabotaged | Toggle | False |
-| Impostors can see the roles of their team | Whether Impostors are able to see which Impostor roles their teammates have | Toggle | False |
-| Dead can see everyone's roles | Whether dead players are able to see the roles of everyone else | Toggle | False |
-| Max Impostor Roles | The maximum number of custom Impostor roles a game can have | Number | 1 |
-| Max Neutral Roles | The maximum number of Neutral roles a game can have | Number | 1 |
-| Role Appears Under Name | Whether your own role appears under your name | Toggle | True |
-| Probability of a completely vanilla game | The percentage probability of a vanilla Among Us game happening | Percentage | 0% |
+| Camouflaged Comms | Все становятся замаскироваными при саботаже связи | Переключатель | False |
+| Camouflaged Meetings | Все становятся замаскироваными во время собраний, пока связь саботирована | Переключатель | False |
+| Impostors can see the roles of their team | Могут ли предатели видеть, какие роли имеют другие предатели | Переключатель | False |
+| Dead can see everyone's roles | Могут ли мертвые игроки видеть роли всех остальных | Переключатель | False |
+| Max Impostor Roles | Максимальное количество ролей предателей, которое может быть в игре | Число | 1 |
+| Max Neutral Roles| Максимальное количество нейтральных ролей, которое может быть в игре | Число | 1 |
+| Role Appears Under Name | Отображается ли роль под вашим именем | Переключатель | True |
+| Probability of a completely vanilla game | Процентная вероятность появления игрыбез ролей и модификаторов | Процент | 0% |
 
 -----------------------
 # Extras
