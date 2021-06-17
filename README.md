@@ -4,8 +4,7 @@
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles1.png)
 
-An Among Us mod that adds a bunch of roles, modifiers and game settings
-
+Мод для Among Us, который добавляет новые роли, модификаторы и игровые настройки
 
 
 
@@ -182,7 +181,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 # Установка
 ## Требования
 - Among Us
-- Steam or Epic Games
+- Steam или Epic Games
 
 ## Руководство по установке (Steam)
 **1. Создайте новую папку с названием `Town of Us` на `Рабочем столе`.**\
@@ -614,19 +613,19 @@ A first launch may take up to 5 minutes, so be patient if it doesn't launch imme
 
 -----------------------
 ## Ассасин `(Assassin)`
-### **Team: Impostors**
+### **Команда: Предатели `(Impostors)`**
 
-The Assassin is an Impostor that can kill during meetings by guessing the role of non-Impostors.\
-If they guessed wrong, they die instead.
+Ассасин - это предатель, который убивает во время собраний, угадывая роли не-предателей.
+Если он ошибается, то умирает сам.
 
 ### Game Options
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
-| Assassin | The percentage probability of the Assassin appearing | Percentage | 0% |
-| Assassin Kill | The number of kill the Assassin can do with his ability | Number | 1 |
-| Assassin Guess Crewmate | Whether the Assassin can Guess "Crewmate" | Toggle | False |
-| Assassin Guess Neutral  | Whether the Assassin can Guess Neutral roles | Toggle | False |
-| Assassin Multiple Kill  | Whether the Assassin can kill more than once per meeting | Toggle | True |
+| Assassin | Процентная вероятность появления Ассасина | Процент | 0% |
+| Assassin Kill | Колличество убийств, котрые Ассасин может сделать своей способностью | Число | 1 |
+| Assassin Guess Crewmate | Может ли Ассасин угадать "Члена экипажа" | Переключатель | False |
+| Assassin Guess Neutral  | Может ли Ассасин угадывать Нейтральные роли | Переключатель | False |
+| Assassin Multiple Kill  | Может ли Ассасин убить больше одного человека за собрание | Переключатель | True |
 
 -----------------------
 
